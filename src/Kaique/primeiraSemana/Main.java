@@ -8,7 +8,7 @@ public class Main {
 
        // String nome = nomeCompleto(primeiroNome, segundoNome);
 
-        System.out.println(nomeCompleto(primeiroNome, segundoNome));
+        System.out.println("\n"+nomeCompleto(primeiroNome, segundoNome));
 
 
 
